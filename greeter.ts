@@ -5,6 +5,6 @@ class Greeter {
     }
 };
 
-var greeter = new Greeter("Hello, world!");
-    
+var greeter = new Greeter("Hello, developers!");
+
 document.body.innerHTML = greeter.greet();
